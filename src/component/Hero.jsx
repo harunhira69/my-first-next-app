@@ -20,7 +20,7 @@ const slides = [
     subtitle: "Precision engineering designed for adrenaline seekers.",
   },
   {
-    image: "/sport-bike.jpg",
+    image: "/car_bike.jpg",
     texts: ["Sport Bicycles", "Speed & Agility"],
     subtitle: "Where performance meets lightweight innovation.",
   },
